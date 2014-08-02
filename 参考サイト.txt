@@ -1,0 +1,6 @@
+iOS/Androidアプリ開発をしたことがある人がUnity 2Dでスマホゲームアプリを作り始める際に知っておくべきこと
+http://qiita.com/yimajo/items/419f7aae4238d3f6eee5
+Unity公式チュートリアル
+http://japan.unity3d.com/developer/document/tutorial/2d-shooting-game/
+【Unity】素人が7日間クソゲーを作り続けてわかったこと
+http://uinyan.com/unity_7days_kusoge_challenge/
