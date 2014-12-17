@@ -1,4 +1,6 @@
-Eclipse 4.4 ƒ_ƒEƒ“ƒ[ƒhƒTƒCƒg
+Eclipse 4.4 ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã‚µã‚¤ãƒˆ
 http://mergedoc.sourceforge.jp/
-Unity ƒ_ƒEƒ“ƒ[ƒhƒTƒCƒg
+Unity ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã‚µã‚¤ãƒˆ
 http://japan.unity3d.com/unity/download/
+iOSã‚¢ãƒ—ãƒªé–‹ç™ºã«å½¹ç«‹ã¤Tips100é€£ç™ºï¼
+http://qiita.com/shu223/items/a895a989e84219e5302e
